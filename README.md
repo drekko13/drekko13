@@ -3,11 +3,18 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Andrep</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Mobile+%26+Web+Developer;Full+Stack+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=drekko13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
-<h3 align="center">Mobile & Web Developer</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=drekko13&theme=onedark" alt="Trophies" />
+</p>
 
 <p align="center">
   <em>"Proses itu berat, tapi hasilnya akan lebih indah"</em>
@@ -57,7 +64,11 @@ I'm a developer focused on creating modern and responsive applications for both 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=drekko13&show_icons=true&locale=en&layout=donut" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drekko13&theme=algolia" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=drekko13&show_icons=true&locale=en&layout=donut" alt="Top Langs" />
 </p>
 
 ---
@@ -71,4 +82,3 @@ I'm a developer focused on creating modern and responsive applications for both 
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" />
   </a>
 </p>
-
