@@ -65,14 +65,7 @@ I'm a developer focused on creating modern and responsive applications for both 
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=drekko13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=drekko13&theme=algolia" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=drekko13&show_icons=true" alt="Top Langs" />
 </p>
 
 ---
