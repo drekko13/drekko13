@@ -27,7 +27,7 @@ I'm a developer focused on creating modern and responsive applications for both 
 
 - 🌱 I’m currently learning **Backend Frameworks**
 - 💬 Ask me about **Frontend Web Development**
-- 🌐 Portfolio: [andrep.my.id](https://andrep.my.id/)
+- 🌐 Portfolio: [andrep.my.id](https://www.andrep.my.id/id)
 - ⚡ Fun fact: Sometimes a **GAMER** 🎮
 
 ---
@@ -75,7 +75,7 @@ I'm a developer focused on creating modern and responsive applications for both 
   <a href="https://instagram.com/andrep13_" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://andrep.my.id/" target="blank">
+  <a href="https://www.andrep.my.id/id" target="blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" />
   </a>
 </p>
